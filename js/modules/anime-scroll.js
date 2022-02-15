@@ -8,8 +8,8 @@ export default function initAnimaScroll() {
       const sectionTop = section.getBoundingClientRect().top
       const isSectionVisible = sectionTop - maxHeight < 0
       if (isSectionVisible) section.classList.add('ativo')
-      else if (section.classList.contains('ativo'))
-        section.classList.remove('ativo')
+      // else if (section.classList.contains('ativo'))
+      //   section.classList.remove('ativo')
     })
   }
 
