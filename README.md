@@ -7,7 +7,7 @@
 - É totalmente responsivo
 - Foi utilizado diversas técnicas com CSS3
 
-## Técnologias Utilizadas
+## Tecnologias Utilizadas
 
 - JavaScript
 - CSS3 - FlexBox - CSS Grid
